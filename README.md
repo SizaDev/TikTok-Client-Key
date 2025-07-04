@@ -18,19 +18,9 @@ This Python script creates a secure, signed token that mimics TikTok’s interna
 
 ## 🛠️ How to Use
 
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/yourusername/tiktok-token-generator.git
+ - Use the printed token in your headers:
    ```
-
-2. Run the script:
-   ```bash
-   python generate_token.py
-   ```
-
-3. Use the printed token in your headers:
-   ```
-   tt-ticket-guard-client-data: <base64-token>
+   tt-ticket-guard-client-data: key
    ```
 
 ---
