@@ -30,16 +30,6 @@ This Python script creates a secure, signed token that mimics TikTok’s interna
 ```bash
 eyJyZXFfY29udGVudCI6InRpY2tldCxwYXRoLHRpbWVzdGFtcCIsInJlcV9zaWduIjoiTUVRQ0lH...
 ```
-
----
-
-## 📦 Dependencies
-
-- Python 3.7+
-- No external packages required (only standard libraries)
-
----
-
 ## 📩 Contact
 
 To request:
