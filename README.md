@@ -1,5 +1,4 @@
 # 🎟️ TikTok Client Token Generator
-
 This Python script creates a secure, signed token that mimics TikTok’s internal `tt-ticket-guard-client-data` format. It's commonly used for accessing private API endpoints requiring encrypted timestamp verification.
 
 > ⚠️ **Disclaimer**  
