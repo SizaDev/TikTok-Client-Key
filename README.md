@@ -6,7 +6,7 @@ This Python script creates a secure, signed token that mimics TikTok’s interna
 
 ---
 
-## 🔍 What It Does
+## 🔍 What It Does 
 
 - Dynamically generates a Unix timestamp
 - Signs it using **HMAC-SHA512** with a provided Base64 key
